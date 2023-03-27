@@ -7,7 +7,7 @@ Para utilizar este projeto como base, faça o seguinte passo-a-passo:
 - Clone o projeto para a sua máquina
 
 ```bash
-https://github.com/EricoCoutoJr/DevFullStack---M1S08-B.git
+https://github.com/EricoCoutoJr/DevFullStack---M1S08-Alternativo.git
 ```
 
 Obs: necessário configurar SSH [(veja como clicando aqui)](https://www.youtube.com/watch?v=n-H1eFSsugo)
